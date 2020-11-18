@@ -13,3 +13,4 @@ assumption that each day of the year (except February 29) is equally probable fo
 Given a group of 20 people and performing 10,000 simulation runs, your program should report that 41.24% of
 the time there were two people that shared the same birthday.
 
+![Screenshot_1605738507](https://user-images.githubusercontent.com/34712449/99596724-7ae29100-29ff-11eb-807b-1821717c8f07.png)

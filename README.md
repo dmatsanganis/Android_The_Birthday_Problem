@@ -1,6 +1,6 @@
-#The Birthday Problem
+# The Birthday Problem
 
-##Introduction:
+## Introduction:
 
 In probability theory, the birthday problem concerns the probability that, in a set of n randomly chosen people,
 some pair of them will have the same birthday. By the pigeonhole principle, the probability reaches 100% when

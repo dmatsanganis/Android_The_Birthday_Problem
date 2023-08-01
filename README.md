@@ -14,3 +14,10 @@ Given a group of 20 people and performing 10,000 simulation runs, your program s
 the time there were two people that shared the same birthday. You can also see the image below:
 
 ![Capture](https://user-images.githubusercontent.com/34712449/99596834-a6657b80-29ff-11eb-9da1-34a8f09942ef.PNG)
+
+## Contributors
+
+- [x] [Dimitris Matsanganis](https://github.com/dmatsanganis)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/android-%3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
